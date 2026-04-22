@@ -101,7 +101,7 @@ export default function MealEntry({ meal, onChange, onRemove }) {
               : 'bg-gray-100 border-gray-200 text-gray-500'
           }`}
         >
-          🛍️ Outside
+          🍔 Outside
         </button>
 
         {/* Remove */}
